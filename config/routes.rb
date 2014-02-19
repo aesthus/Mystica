@@ -1,5 +1,5 @@
 Mystica::Application.routes.draw do
-    resources :worldnews, :ufo, :extrasenses, :horoscopes, :doomsday
+    resources :worldnews, :ufo, :extrasenses, :horoscopes, :doomsday, :admin
   get "home/index"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
