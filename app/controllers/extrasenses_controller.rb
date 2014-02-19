@@ -1,0 +1,2 @@
+class ExtrasensesController < ApplicationController
+end

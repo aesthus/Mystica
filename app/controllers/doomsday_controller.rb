@@ -1,0 +1,2 @@
+class DoomsdayController < ApplicationController
+end
